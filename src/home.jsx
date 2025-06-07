@@ -141,14 +141,14 @@ export default function Home() {
             {/* Footer */}
             <footer className="container-fluid text-white text-center bg-danger py-1 sticky-bottom">
                 <span>
-                    Made by : <a
+                    Banane Wala : <a
                         className="text-white text-decoration-underline"
                         // href="https://www.linkedin.com/in/prateek-srivastava-1005/"
                         href='#'
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Sakshi Kumari
+                        Prateek Srivastava
                     </a>
                 </span>
             </footer>
